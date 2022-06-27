@@ -1,0 +1,1046 @@
+{
+	"Code": "1",
+	"Message": "成功",
+	"Data": [{
+		"Name": "数控机床基础实践",
+		"Data": [{
+				"No": "101",
+				"Name": "1.1 设备认知",
+				"Background": "可以基本使用设备",
+				"Target": "对VR数控示教一体机有基本的认知。",
+				"Steps": [{
+						"No": "001",
+						"Name": "1) 显示器",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "001",
+							"Name": "显示器"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2)电脑电源开关",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "002",
+							"Name": "电脑开关"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3) 数控机床操作面板",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "003",
+							"Name": "数控机床操作面板"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 显示面板",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "004",
+							"Name": "显示面板"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5) NC键盘",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "005",
+							"Name": "NC键盘"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "006",
+						"Name": "6) 机床操作面板（MCP）",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "006",
+							"Name": "机床操作面板"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "007",
+						"Name": "7) 急停按钮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "008",
+						"Name": "8)手轮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "008",
+							"Name": "手轮"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "009",
+						"Name": "9) 数控电源开关",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "009",
+							"Name": "数控开关"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "010",
+						"Name": "10) 数控系统转换器",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "010",
+							"Name": "数控系统转换器"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "011",
+						"Name": "11)空气开关",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "011",
+							"Name": "空气开关"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "012",
+						"Name": "12) 电脑主机",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "012",
+							"Name": "电脑主机"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "013",
+						"Name": "13) 示教机总电源",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "013",
+							"Name": "示教机总电源"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "014",
+						"Name": "14) 菜单栏",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "014",
+							"Name": "菜单栏"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "015",
+						"Name": "15) 用户信息栏",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "015",
+							"Name": "用户信息栏"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "016",
+						"Name": "16) 提示信息窗口",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "016",
+							"Name": "提示信息窗口"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "017",
+						"Name": "17) 各轴数据校验窗口",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "017",
+							"Name": "各轴数据校验窗口"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "018",
+						"Name": "18) 机床设备显示及控制窗口",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "018",
+							"Name": "机床设备显示及控制窗口"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "019",
+						"Name": "19) 实践及其他显示窗口",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "019",
+							"Name": "实践及其他显示窗口"
+						},
+						"IsLastStep": true
+					}
+				],
+				"Summary": "1）对VR CNC的功能及基本操作进行认知。 2）对数控系统的界面布局，功能进行认知。3) 对VR数控平台有基本的认知。"
+			},
+			{
+				"No": "102",
+				"Name": "1.2 参数设置",
+				"Background": "设置软件与数控系统的各轴运功参数",
+				"Target": "参数设置，校准数控系统与虚拟机床的参数",
+				"Steps": [{
+						"No": "001",
+						"Name": "1) 点按数控系统“参数”按钮",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "501",
+							"Name": "参数"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2) 点按“F2-F7”记录各轴参数中的每圈脉冲数和每圈行程",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "401",
+							"Name": "软功能键"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3) 在软件中找到设置，选择“参数设置”",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "",
+							"Name": "参数设置"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 按照记录的参数填入对应方框中",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "",
+							"Name": ""
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5) 点击“确定 ”保存数据",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "",
+							"Name": ""
+						},
+						"IsLastStep": true
+					}
+				],
+				"Summary": "参数设置相同，机床运动数据才能与数控系统同步 "
+			},
+			{
+				"No": "103",
+				"Name": "1.3 回零",
+				"Background": "机床加工前得有个参考点",
+				"Target": "学会回零",
+				"Steps": [{
+						"No": "001",
+						"Name": "1) 抬起急停按钮",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2) 点按“复位”清除报警信息",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "501",
+							"Name": "复位"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3) 点按“回零”按钮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "回零"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 点击“z+”机床开始朝Z轴正方向移动，Z轴碰到机械正限位时，数控系统中机床坐标自动清零",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "602",
+							"Name": "+Z"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5) 点击“y+”回到Y轴机械零点",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "602",
+							"Name": "+Y"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "006",
+						"Name": "6) 点击“x+”回到X轴机械零点",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "602",
+							"Name": "+X"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "007",
+						"Name": "7)按下急停按钮 机械回零操作完成！",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": true
+					}
+				],
+				"Summary": "使用数控加工，实际上是对机床的位置控制。 有了零点，位置控制才有意义。 "
+			},
+			{
+				"No": "104",
+				"Name": "1.4 单步（手轮）模式",
+				"Background": "通过手轮可以精准的控制机床各轴的移动，在对刀等场景下，经常使用",
+				"Target": "1）学会使用手轮，对各轴进行控制。 2）通过设置倍率，调整手轮的控制精度。",
+				"Steps": [{
+						"No": "001",
+						"Name": "1) 抬起急停按钮",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2) 点按“复位”清除报警信息",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "501",
+							"Name": "复位"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3) 点按“单步”按钮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "单步"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 点按“倍率x1x10x100”，调整倍率为x1",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "倍率"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5) 点按手动控制区“x”按钮，设置手轮控制x轴",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "602",
+							"Name": "x"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "006",
+						"Name": "6) 顺时针旋转手轮，向x正方向移动0.009毫米",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "008",
+							"Name": "手轮"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "007",
+						"Name": "7) 点按“倍率x1x10x100”，调整倍率为x10",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "倍率"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "008",
+						"Name": "8) 点按手动控制区“y”按钮，设置手轮控制y轴",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "602",
+							"Name": "y"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "009",
+						"Name": "9) 顺时针旋转手轮，向y正方向移动0.090毫米",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "008",
+							"Name": "手轮"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "010",
+						"Name": "10) 点按“倍率x1x10x100”，调整倍率为x100",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "倍率"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "011",
+						"Name": "11) 点按手动控制区“z”按钮，设置手轮控制z轴",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "602",
+							"Name": "z"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "012",
+						"Name": "12) 顺时针旋转手轮，向z正方向移动0.900毫米",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "008",
+							"Name": "手轮"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "013",
+						"Name": "13) 按下急停按钮“单步”模式结束",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": true
+					}
+
+				],
+				"Summary": "1）学会使用手轮，对各轴进行控制。 2）通过设置倍率，调整手轮的控制精度。"
+			},
+			{
+				"No": "105",
+				"Name": "1.5 手动模式",
+				"Background": "在手动模式下，可以快速的控制机床各轴的移动，在控制各轴长距离移动等场景下，经常使用。",
+				"Target": "1）学会使用手动模式下，对各轴进行控制。 2）通过设置进给倍率，调整各轴移动的速度。 3）通过选定快速模式，设定快速倍率，调整各轴移动的速度",
+				"Steps": [{
+						"No": "001",
+						"Name": "1) 抬起急停按钮",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2) 点按“复位”清除报警信息",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "501",
+							"Name": "复位"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3) 点按“手动”按钮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "手动"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 点击“z+”机床向Z正方向移动，点击“z-”机床向Z负方向移动",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "602",
+							"Name": "+Z"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5) 点击“进给倍率+”或“进给倍率-”，可调整手动移动速度",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "进给倍率"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "006",
+						"Name": "6) 点击“快速Rapid”按钮，按钮上指示灯变亮，进入手动快速模式",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "602",
+							"Name": "快速Rapid"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "007",
+						"Name": "7)点击“快速倍率+”或“快速倍率-”，调整快速移动速率",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "快速倍率"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "008",
+						"Name": "8)按下急停按钮，手动模式操作完成！",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": true
+					}
+				],
+				"Summary": "在手动模式下，可以快速的控制机床各轴的移动，在控制各轴长距离移动等场景下，经常使用。 "
+			},
+			{
+				"No": "106",
+				"Name": "1.6 MDI模式",
+				"Background": "在MDI模式下，可以手动输入G或M代码，",
+				"Target": "1）学会使用MDI模式下，编写简单的NC程序。 2）学会使用MDI模式下，执行NC程序。",
+				"Steps": [{
+						"No": "001",
+						"Name": "1) 抬起急停按钮",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2) 点按“复位”清除报警信息",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "501",
+							"Name": "复位"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3) 点按“MDI”按钮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "MDI"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 通过NC键盘输入G代码：  M03  G91 X5 Y5 M05",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "502",
+							"Name": "NC键盘"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5) 启动NC程序：点按”启动“按钮，程序开始执行",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "701/604",
+							"Name": "启动"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "006",
+						"Name": "6) 停止NC程序：在运行过程中，点按“停止”按钮，则程序将立即停止执行",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "702",
+							"Name": "停止"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "007",
+						"Name": "7)删除NC程序：点击F8（“MDI清空”）把MDI输入框内的代码清空",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "快速倍率"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "008",
+						"Name": "8)按下急停按钮，MDI模式操作完成！",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": true
+					}
+				],
+				"Summary": "1）学会使用MDI模式下，编写简单的NC程序。 2）学会使用MDI模式下，执行NC程序。 "
+			},
+			{
+				"No": "107",
+				"Name": "1.7 自动模式",
+				"Background": "在多数的数控加工，都是在执行自动加工，根据NC程序，进行加工。",
+				"Target": "1）学会在电脑中编写G代码，通过U盘导入到数据系统本地目录中。2）学会使用AUTO模式下，进行加工。",
+				"Steps": [{
+						"No": "001",
+						"Name": "1) 抬起急停按钮",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2) 点按“复位”清除报警信息",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "501",
+							"Name": "复位"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3)在PC中，打开记事本，编写G代码：   G91 -X10 -Y10",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "",
+							"Name": ""
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 保存文件为demo.nc",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "",
+							"Name": ""
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5) 把demo.nc文件考入到数控系统中",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "",
+							"Name": ""
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "006",
+						"Name": "6) 点按“自动”按钮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "601",
+							"Name": "自动"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "007",
+						"Name": "7点击 “程序”，从本地目录中选择demo.nc文件",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "501",
+							"Name": "程序"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "008",
+						"Name": "8) 启动NC程序：点按”启动“按钮，程序开始执行",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "701/604",
+							"Name": "启动"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "009",
+						"Name": "9) 停止NC程序：在运行过程中，点按“停止”按钮，则程序将立即停止执行",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "702",
+							"Name": "停止"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "010",
+						"Name": "10)按下急停按钮，自动模式操作完成！",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": true
+					}
+				],
+				"Summary": "1）学会在电脑中编写G代码，通过U盘导入到数据系统本地目录中。2）学会使用AUTO模式下，进行加工。 "
+			},
+			{
+				"No": "108",
+				"Name": "1.8 IO控制",
+				"Background": "辅助功能中，除了M代码控制外，还有一些操作键",
+				"Target": "快速操作机床辅助功能",
+				"Steps": [{
+						"No": "001",
+						"Name": "1) 抬起急停按钮",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2) 点按“复位”清除报警信息",
+						"PicUrl": "",
+						"ButtonToPress": {
+							"No": "501",
+							"Name": "复位"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3)点按“主轴正转”（对应M代码：M03），观察主轴运转情况",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "603",
+							"Name": "主轴正转"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 点按“主轴停止”（对应M代码：M05）",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "603",
+							"Name": "主轴停止"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5)点按“冷却”，控制冷却液开关（对应M代码：开 M08 关 M09）",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "603",
+							"Name": "冷却"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "006",
+						"Name": "6) 点按“夹紧”，控制卡盘的卡紧和松开（对应M代码：M10 M11）",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "603",
+							"Name": "夹紧"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "07",
+						"Name": "7)按下急停按钮，辅助功能操作完成！",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": true
+					}
+				],
+				"Summary": "学会快速操作机床辅助功能 "
+			}
+		]
+	},
+	{ 
+	    "Name": "数控机床基础实践1",
+		"Data": [{
+				"No": "101",
+				"Name": "1.1 设备认知",
+				"Background": "可以基本使用设备",
+				"Target": "对VR数控示教一体机有基本的认知。",
+				"Steps": [
+				{
+						"No": "001",
+						"Name": "1) 显示器",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "001",
+							"Name": "显示器"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "002",
+						"Name": "2)电脑电源开关",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "002",
+							"Name": "电脑开关"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "003",
+						"Name": "3) 数控机床操作面板",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "003",
+							"Name": "数控机床操作面板"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "004",
+						"Name": "4) 显示面板",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "004",
+							"Name": "显示面板"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "005",
+						"Name": "5) NC键盘",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "005",
+							"Name": "NC键盘"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "006",
+						"Name": "6) 机床操作面板（MCP）",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "006",
+							"Name": "机床操作面板"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "007",
+						"Name": "7) 急停按钮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "007",
+							"Name": "急停"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "008",
+						"Name": "8)手轮",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "008",
+							"Name": "手轮"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "009",
+						"Name": "9) 数控电源开关",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "009",
+							"Name": "数控开关"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "010",
+						"Name": "10) 数控系统转换器",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "010",
+							"Name": "数控系统转换器"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "011",
+						"Name": "11)空气开关",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "011",
+							"Name": "空气开关"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "012",
+						"Name": "12) 电脑主机",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "012",
+							"Name": "电脑主机"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "013",
+						"Name": "13) 示教机总电源",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "013",
+							"Name": "示教机总电源"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "014",
+						"Name": "14) 菜单栏",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "014",
+							"Name": "菜单栏"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "015",
+						"Name": "15) 用户信息栏",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "015",
+							"Name": "用户信息栏"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "016",
+						"Name": "16) 提示信息窗口",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "016",
+							"Name": "提示信息窗口"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "017",
+						"Name": "17) 各轴数据校验窗口",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "017",
+							"Name": "各轴数据校验窗口"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "018",
+						"Name": "18) 机床设备显示及控制窗口",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "018",
+							"Name": "机床设备显示及控制窗口"
+						},
+						"IsLastStep": false
+					},
+					{
+						"No": "019",
+						"Name": "19) 实践及其他显示窗口",
+						"PicUrl": "****",
+						"ButtonToPress": {
+							"No": "019",
+							"Name": "实践及其他显示窗口"
+						},
+						"IsLastStep": true
+					}
+				],
+				"Summary": "1）对VR CNC的功能及基本操作进行认知。 2）对数控系统的界面布局，功能进行认知。3) 对VR数控平台有基本的认知。"
+			}]
+	}
+	]
+}
